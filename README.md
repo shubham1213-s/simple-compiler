@@ -37,16 +37,16 @@ Tested using multiple sample programs
 Well-documented design and workflow
 
 ---------- Tech Stack--------
-
-Compiler Implementation: C / Python / Java (update as per your project)
+--------workflow-------
+write a program
+Compiler Implementation: C
 CPU Design: Verilog HDL
 Simulation: Verilog Testbench
 Version Control: Git & GitHub
 
 Run the compiler to generate assembly code
 Load the generated code into the 8-bit CPU simulator
-Observe program execution through simulation output
-🧪 Testing
+Observe program execution through simulation output Testing
 Several SimpleLang programs were compiled.
 Generated assembly code was executed on the 8-bit CPU simulator.
 Output was verified against expected results.
